@@ -3,6 +3,6 @@
 ``` sh
 # To start the app just run:
 library(shiny) # you will need also ggplot!
-runGitHub("popgensim","MoisesExpositoAlonso")
+runGitHub("gwhs","MoisesExpositoAlonso")
 
 ```
