@@ -1,6 +1,5 @@
 library(shiny)
 library(ggplot2)
-library(cowplot)
 
 ui <-
 # Define UI for miles per gallon application
